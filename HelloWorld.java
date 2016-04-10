@@ -6,6 +6,10 @@ public class HelloWorld {
 
 	System.out.println("Hello, TamilNadu");
 
+	System.out.println("Hello, Kerala");
+	System.out.println("Hello, Karnataka");
+
+
     }
 
 }
