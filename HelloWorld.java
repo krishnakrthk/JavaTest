@@ -8,7 +8,7 @@ public class HelloWorld {
 
 	System.out.println("Hello, Kerala");
 	System.out.println("Hello, Karnataka");
-	System.out.println("Hello, Andra");
+	System.out.println("Hello, Andra Pradesh");
 
 
     }
